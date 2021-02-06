@@ -1,0 +1,12 @@
+### Packages required for image pipeline ###
+cv2 >= 4.4.0
+numpy >= 1.19.2
+opencv-contrib-python >= 4.4.0.44
+# Image processing functions
+PIL >= 7.0.0
+# AWS library
+boto3 >= 1.16.7
+# Azure library
+azure-storage-blob >= 12.5.0
+simplekml >= 1.3.5
+watchdog >= 0.10.3
